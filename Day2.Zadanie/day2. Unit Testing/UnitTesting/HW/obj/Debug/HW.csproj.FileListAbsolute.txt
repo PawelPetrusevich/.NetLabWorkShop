@@ -1,0 +1,6 @@
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\bin\Debug\HW.dll
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\bin\Debug\HW.pdb
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\obj\Debug\HW.dll
+D:\.NET mentoring\day2. Unit Testing\UnitTesting\HW\obj\Debug\HW.pdb

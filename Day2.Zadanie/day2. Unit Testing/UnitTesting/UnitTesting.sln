@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordManager", "PasswordManager\PasswordManager.csproj", "{5EF0661F-2330-4B36-AA66-3B76B2820D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordManager.Tests", "PasswordManager.Tests\PasswordManager.Tests.csproj", "{341494BA-725F-47B7-BC9C-D8F464EA4DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW", "HW\HW.csproj", "{1E626112-6917-4ED1-8B7D-5C9B143E118F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF0661F-2330-4B36-AA66-3B76B2820D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF0661F-2330-4B36-AA66-3B76B2820D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF0661F-2330-4B36-AA66-3B76B2820D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF0661F-2330-4B36-AA66-3B76B2820D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341494BA-725F-47B7-BC9C-D8F464EA4DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341494BA-725F-47B7-BC9C-D8F464EA4DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341494BA-725F-47B7-BC9C-D8F464EA4DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341494BA-725F-47B7-BC9C-D8F464EA4DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E626112-6917-4ED1-8B7D-5C9B143E118F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E626112-6917-4ED1-8B7D-5C9B143E118F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E626112-6917-4ED1-8B7D-5C9B143E118F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E626112-6917-4ED1-8B7D-5C9B143E118F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C816F4C1-D30F-432E-9762-85471A8A3559}
+	EndGlobalSection
+EndGlobal
